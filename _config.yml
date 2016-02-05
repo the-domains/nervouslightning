@@ -1,0 +1,28 @@
+name: nervouslightning
+favicon: null
+layout_spectrum: 0.17497073812410235
+typography_spectrum: 0.09051213902421296
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7530621676705778
+  lightness: 0.5400003269314766
+  saturation: 0.5072911765892059
+  rhythmicContrast: 0.6495468204375356
+purpose: []
