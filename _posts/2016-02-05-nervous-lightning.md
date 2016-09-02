@@ -1,33 +1,29 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-keywords: []
-description: Personal hub of Ryan J. A. Murphy
-datePublished: '2016-02-05T00:42:54.309Z'
-dateModified: '2016-02-05T00:42:41.304Z'
-title: Nervous Lightning
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-31T12:16:39.174Z'
 sourcePath: _posts/2016-02-05-nervous-lightning.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-31T12:16:38.770Z'
+title: ''
+publisher: {}
+description: Lorem ipsum
+inLanguage: null
+inNav: true
+via: {}
+starred: false
 url: nervous-lightning/index.html
 _type: Article
 
 ---
 Lorem ipsum
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1089fc49-c338-4fe5-8cb1-d49734eff14c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b50d1f0ebf892559feec6fc85e065aff0e0341c.jpg)
 
 SFI
 
 test
 
 1 2 3
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6771a1cc-22e0-4050-a589-39bc101b4da5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b3270575d3fa4d2fe5105cad6c796e2cf6d499e.jpg)
